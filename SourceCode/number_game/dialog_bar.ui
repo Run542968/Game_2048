@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog_Bar</class>
+ <widget class="QDialog" name="Dialog_Bar">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>568</width>
+    <height>454</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QPushButton" name="b1">
+   <property name="geometry">
+    <rect>
+     <x>108</x>
+     <y>100</y>
+     <width>81</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="b2">
+   <property name="geometry">
+    <rect>
+     <x>192</x>
+     <y>100</y>
+     <width>81</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="b3">
+   <property name="geometry">
+    <rect>
+     <x>276</x>
+     <y>100</y>
+     <width>81</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="b4">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>100</y>
+     <width>81</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="b7">
+   <property name="geometry">
+    <rect>
+     <x>276</x>
+     <y>184</y>
+     <width>81</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="b6">
+   <property name="geometry">
+    <rect>
+     <x>192</x>
+     <y>184</y>
+     <width>81</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="b8">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>184</y>
+     <width>81</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="b5">
+   <property name="geometry">
+    <rect>
+     <x>108</x>
+     <y>184</y>
+     <width>81</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="b11">
+   <property name="geometry">
+    <rect>
+     <x>276</x>
+     <y>268</y>
+     <width>81</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="b10">
+   <property name="geometry">
+    <rect>
+     <x>192</x>
+     <y>268</y>
+     <width>81</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="b12">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>268</y>
+     <width>81</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="b9">
+   <property name="geometry">
+    <rect>
+     <x>108</x>
+     <y>268</y>
+     <width>81</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="b15">
+   <property name="geometry">
+    <rect>
+     <x>276</x>
+     <y>352</y>
+     <width>81</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="b14">
+   <property name="geometry">
+    <rect>
+     <x>192</x>
+     <y>352</y>
+     <width>81</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="b16">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>352</y>
+     <width>81</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="b13">
+   <property name="geometry">
+    <rect>
+     <x>108</x>
+     <y>352</y>
+     <width>81</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="b_2">
+   <property name="geometry">
+    <rect>
+     <x>90</x>
+     <y>10</y>
+     <width>71</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/new/prefix1/image/2.jpg);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="b_4">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>10</y>
+     <width>71</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/new/prefix1/image/4.jpg);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="b_16">
+   <property name="geometry">
+    <rect>
+     <x>390</x>
+     <y>10</y>
+     <width>71</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/new/prefix1/image/16.jpg);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="b_8">
+   <property name="geometry">
+    <rect>
+     <x>290</x>
+     <y>10</y>
+     <width>71</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/new/prefix1/image/8.jpg);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QGraphicsView" name="graphicsView">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>571</width>
+     <height>461</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/new/prefix1/image/2048bg.jpg);</string>
+   </property>
+  </widget>
+  <zorder>graphicsView</zorder>
+  <zorder>b1</zorder>
+  <zorder>b2</zorder>
+  <zorder>b3</zorder>
+  <zorder>b4</zorder>
+  <zorder>b7</zorder>
+  <zorder>b6</zorder>
+  <zorder>b8</zorder>
+  <zorder>b5</zorder>
+  <zorder>b11</zorder>
+  <zorder>b10</zorder>
+  <zorder>b12</zorder>
+  <zorder>b9</zorder>
+  <zorder>b15</zorder>
+  <zorder>b14</zorder>
+  <zorder>b16</zorder>
+  <zorder>b13</zorder>
+  <zorder>b_2</zorder>
+  <zorder>b_4</zorder>
+  <zorder>b_16</zorder>
+  <zorder>b_8</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

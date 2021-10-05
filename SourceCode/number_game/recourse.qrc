@@ -1,0 +1,51 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/background.jpg</file>
+        <file>image/top.jpg</file>
+        <file>image/random.png</file>
+        <file>image/random1.png</file>
+        <file>image/home.png</file>
+        <file>image/start.png</file>
+        <file>image/stop.png</file>
+        <file>image/left_hand.png</file>
+        <file>image/right_hand.png</file>
+        <file>image/2048.jpg</file>
+        <file>image/fall.jpg</file>
+        <file>image/bar.png</file>
+        <file>image/hammer.png</file>
+        <file>image/bar1.png</file>
+        <file>image/hammer1.png</file>
+        <file>image/sort_bacnground.jpg</file>
+        <file>image/back.png</file>
+        <file>image/operation_background.jpg</file>
+        <file>image/A.png</file>
+        <file>image/D.png</file>
+        <file>image/down.png</file>
+        <file>image/left.png</file>
+        <file>image/right .png</file>
+        <file>image/S.png</file>
+        <file>image/up.png</file>
+        <file>image/w.png</file>
+        <file>image/author_background.jpg</file>
+        <file>image/2048bg.jpg</file>
+        <file>image/main_bg.jpg</file>
+        <file>image/button_4.png</file>
+        <file>image/button_5.png</file>
+        <file>image/button_bg.png</file>
+        <file>image/button_bg2.png</file>
+        <file>image/button_bg3.png</file>
+        <file>image/game_background.jpg</file>
+        <file>image/game_happy.jpg</file>
+        <file>image/0.jpg</file>
+        <file>image/2.jpg</file>
+        <file>image/4.jpg</file>
+        <file>image/8.jpg</file>
+        <file>image/16.jpg</file>
+        <file>image/32.jpg</file>
+        <file>image/64.jpg</file>
+        <file>image/128.jpg</file>
+        <file>image/256.jpg</file>
+        <file>image/512.jpg</file>
+        <file>image/11.wav</file>
+    </qresource>
+</RCC>
